@@ -9,7 +9,7 @@
 
 #### Fazer alteracoes
     * git add .
-    * git commit -m updated2
+    * git commit -m section-created
     * git push
 
 #### Javascript
