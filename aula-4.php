@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>trabalhando definicao de area</title>
+    <title>trabalhando definicao de area</title> 
 </head>
 <body>
     <style>
@@ -17,6 +17,8 @@
         }
         .row1{
             /** aplicando tamanho nos elementos */
+
+
             /** Flex box */
             display: flex;
             justify-content: center;
@@ -30,6 +32,7 @@
             align-items: center;
 
         }
+        
         .cat:hover{
             background-color: blue;
             padding: 10px;
